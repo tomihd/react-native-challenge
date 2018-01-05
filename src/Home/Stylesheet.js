@@ -58,6 +58,15 @@ const styles = StyleSheet.create({
 
   spinner: {
     marginTop: 20
+  },
+
+  errorRequiredField: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+    color: '#e21d1d',
+    marginHorizontal: 50,
+    fontSize: 14
   }
 
 });
