@@ -27,7 +27,7 @@ export default class HomeScreen extends Component {
         <View style={styles.principal}> 
             <View style={styles.centerLogo}>
             	<Image 
-              	source={require('./../assets/img/logoapp.png')} 
+              	source={require('./../../assets/img/logoapp.png')} 
               	style={ styles.logo}/>
  	        </View>
 
